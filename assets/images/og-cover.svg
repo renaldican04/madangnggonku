@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Rasa Nusantara — Kuliner Indonesia">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0b0f"/>
+      <stop offset="100%" stop-color="#7f0f14"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="930" cy="180" r="200" fill="#fb923c" fill-opacity="0.16"/>
+  <circle cx="300" cy="460" r="240" fill="#d61f26" fill-opacity="0.12"/>
+  <ellipse cx="760" cy="330" rx="220" ry="150" fill="#15151b"/>
+  <ellipse cx="760" cy="336" rx="165" ry="110" fill="#2a1b1a"/>
+  <circle cx="705" cy="300" r="44" fill="#d97706"/>
+  <circle cx="786" cy="276" r="54" fill="#f5c86b"/>
+  <circle cx="845" cy="320" r="42" fill="#7c2d12"/>
+  <text x="90" y="180" fill="#f8fafc" font-family="Poppins, Arial, sans-serif" font-size="72" font-weight="800">Madang Nggonku</text>
+  <text x="90" y="250" fill="#f5c86b" font-family="Inter, Arial, sans-serif" font-size="28" letter-spacing="5">KULINER INDONESIA MODERN PREMIUM</text>
+  <text x="90" y="420" fill="#c8ccd6" font-family="Inter, Arial, sans-serif" font-size="28">Cita rasa elegan, suasana hangat, dan pengalaman premium</text>
+</svg>

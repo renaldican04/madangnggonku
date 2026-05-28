@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-label="Wedang Putih">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#100f14"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="540" fill="url(#bg)"/>
+  <rect x="245" y="98" width="230" height="300" rx="44" fill="#f8fafc" fill-opacity="0.14" stroke="#f8fafc" stroke-opacity="0.2"/>
+  <rect x="265" y="160" width="190" height="190" rx="28" fill="#7f4f27" opacity="0.78"/>
+  <path d="M285 150v160M325 150v160M365 150v160M405 150v160" stroke="#d1fae5" stroke-width="14" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="360" cy="180" r="92" fill="#fef3c7" fill-opacity="0.3"/>
+  <rect x="510" y="114" width="140" height="14" rx="7" fill="#d61f26" fill-opacity="0.75"/>
+  <text x="40" y="470" fill="#f8fafc" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700">Wedang Putih</text>
+  <text x="40" y="506" fill="#c8ccd6" font-family="Inter, Arial, sans-serif" font-size="20">Olahan berkuah lembut dengan rempah halus</text>
+</svg>

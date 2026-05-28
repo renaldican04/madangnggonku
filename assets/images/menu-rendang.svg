@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-label="Rendang Wagyu Premium">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#150f10"/>
+      <stop offset="100%" stop-color="#7f0f14"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="540" fill="url(#bg)"/>
+  <ellipse cx="368" cy="308" rx="220" ry="150" fill="#101014"/>
+  <ellipse cx="368" cy="312" rx="165" ry="108" fill="#251817"/>
+  <circle cx="270" cy="270" r="58" fill="#8c3b20"/>
+  <circle cx="325" cy="246" r="72" fill="#5e1f1f"/>
+  <circle cx="410" cy="266" r="76" fill="#763620"/>
+  <circle cx="470" cy="300" r="64" fill="#a45b29"/>
+  <circle cx="345" cy="325" r="92" fill="#4f1817"/>
+  <rect x="520" y="120" width="140" height="16" rx="8" fill="#f5c86b" fill-opacity="0.8"/>
+  <text x="40" y="470" fill="#f8fafc" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700">Sego Bakar Premium</text>
+  <text x="40" y="506" fill="#c8ccd6" font-family="Inter, Arial, sans-serif" font-size="20">Smoky rice, spicy sambal, modern plating</text>
+</svg>

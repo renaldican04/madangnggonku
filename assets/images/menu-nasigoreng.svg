@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540" role="img" aria-label="Nasi Goreng Kampung Deluxe">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111118"/>
+      <stop offset="100%" stop-color="#d61f26"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="540" fill="url(#bg)"/>
+  <ellipse cx="365" cy="300" rx="230" ry="155" fill="#111014"/>
+  <ellipse cx="365" cy="303" rx="180" ry="118" fill="#29211d"/>
+  <path d="M220 287c28-36 68-44 105-16 20 15 39 21 64 15 38-9 60-2 87 21 17 15 35 23 59 26" fill="none" stroke="#f8d977" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" opacity="0.88"/>
+  <circle cx="285" cy="245" r="34" fill="#f5c86b"/>
+  <circle cx="385" cy="238" r="44" fill="#fef3c7"/>
+  <circle cx="470" cy="264" r="28" fill="#d97706"/>
+  <rect x="510" y="110" width="140" height="14" rx="7" fill="#fb923c" fill-opacity="0.8"/>
+  <text x="40" y="470" fill="#f8fafc" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700">Endok Goreng Spesial</text>
+  <text x="40" y="506" fill="#c8ccd6" font-family="Inter, Arial, sans-serif" font-size="20">Crispy egg, simple and tasty</text>
+</svg>
